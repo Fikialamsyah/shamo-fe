@@ -1,0 +1,11 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/fiki/flutter-dev/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.16.0+1/
+cloud_firestore_web=/Users/fiki/flutter-dev/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-0.3.0+2/
+firebase_core=/Users/fiki/flutter-dev/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.7.0/
+firebase_core_web=/Users/fiki/flutter-dev/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.2.1+3/
+path_provider=/Users/fiki/flutter-dev/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.11/
+path_provider_android=/Users/fiki/flutter-dev/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.9/
+path_provider_ios=/Users/fiki/flutter-dev/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.11/
+path_provider_linux=/Users/fiki/flutter-dev/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.7/
+path_provider_macos=/Users/fiki/flutter-dev/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.3/
+path_provider_windows=/Users/fiki/flutter-dev/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.1.0/

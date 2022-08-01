@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385962193741",
+    "project_id": "shamostore-3077d",
+    "storage_bucket": "shamostore-3077d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385962193741:android:5bb417a3505dfd580a7d04",
+        "android_client_info": {
+          "package_name": "com.fauzy.shamostore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385962193741-rf7u561ejsrtaqu99j9qs2opca7odnep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvGladVO93HokVomfufLiCqIC95kAehNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385962193741-rf7u561ejsrtaqu99j9qs2opca7odnep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
