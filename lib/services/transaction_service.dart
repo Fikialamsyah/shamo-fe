@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 import '../models/cart_model.dart';
 
 class TransactionService {
-  String baseUrl = 'https://97f5-103-105-35-76.ap.ngrok.io/api';
+  String baseUrl = 'https://shamo-be-app.herokuapp.com/api';
 
   Future<bool> checkout(
     String token,

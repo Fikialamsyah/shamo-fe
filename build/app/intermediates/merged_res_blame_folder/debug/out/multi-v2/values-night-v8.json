@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/fiki/Documents/shamo-mobile/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/fiki/Documents/shamo-fe/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/fiki/Documents/shamo-mobile/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/fiki/Documents/shamo-fe/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

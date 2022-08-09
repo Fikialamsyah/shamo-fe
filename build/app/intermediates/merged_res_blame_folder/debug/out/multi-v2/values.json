@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/fiki/Documents/shamo-mobile/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/fiki/Documents/shamo-fe/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/fiki/.gradle/caches/transforms-2/files-2.1/cea45e25bbe77c9713c39e234ccfd7bd/jetified-window-1.0.0-beta04/res/values/values.xml",
@@ -42,24 +42,7 @@
                     }
                 },
                 {
-                    "source": "/Users/fiki/.gradle/caches/transforms-2/files-2.1/4a1e8147c3db656939cfc830651ce63e/jetified-play-services-basement-18.0.0/res/values/values.xml",
-                    "from": {
-                        "startLines": "4,7",
-                        "startColumns": "0,0",
-                        "startOffsets": "243,406",
-                        "endColumns": "63,166",
-                        "endOffsets": "306,572"
-                    },
-                    "to": {
-                        "startLines": "99,109",
-                        "startColumns": "4,4",
-                        "startOffsets": "6042,7220",
-                        "endColumns": "67,166",
-                        "endOffsets": "6105,7382"
-                    }
-                },
-                {
-                    "source": "/Users/fiki/Documents/shamo-mobile/build/app/generated/res/google-services/debug/values/values.xml",
+                    "source": "/Users/fiki/Documents/shamo-fe/build/app/generated/res/google-services/debug/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -76,7 +59,7 @@
                     }
                 },
                 {
-                    "source": "/Users/fiki/Documents/shamo-mobile/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/fiki/Documents/shamo-fe/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -92,6 +75,23 @@
                         "endLines": "131,134",
                         "endColumns": "12,12",
                         "endOffsets": "9612,9781"
+                    }
+                },
+                {
+                    "source": "/Users/fiki/.gradle/caches/transforms-2/files-2.1/4a1e8147c3db656939cfc830651ce63e/jetified-play-services-basement-18.0.0/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "0,0",
+                        "startOffsets": "243,406",
+                        "endColumns": "63,166",
+                        "endOffsets": "306,572"
+                    },
+                    "to": {
+                        "startLines": "99,109",
+                        "startColumns": "4,4",
+                        "startOffsets": "6042,7220",
+                        "endColumns": "67,166",
+                        "endOffsets": "6105,7382"
                     }
                 },
                 {

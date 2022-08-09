@@ -4,7 +4,7 @@ import 'package:shamostore/models/user_model.dart';
 import 'package:http/http.dart' as http;
 
 class AuthService {
-  String baseUrl = 'https://97f5-103-105-35-76.ap.ngrok.io/api';
+  String baseUrl = 'https://shamo-be-app.herokuapp.com/api';
 
   Future<UserModel> register({
     String name,

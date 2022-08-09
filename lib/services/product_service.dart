@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 import 'package:shamostore/models/product_model.dart';
 
 class ProductService {
-  String baseUrl = 'https://97f5-103-105-35-76.ap.ngrok.io/api';
+  String baseUrl = 'https://shamo-be-app.herokuapp.com/api';
 
   Future<List<ProductModel>> getProducts() async {
     var url = '$baseUrl/products';

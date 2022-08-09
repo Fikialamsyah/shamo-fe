@@ -54,7 +54,7 @@ class CartCard extends StatelessWidget {
                       ),
                     ),
                     Text(
-                      '\$${cart.product.price}',
+                      '\Rp.${cart.product.price}',
                       style: priceTextStyle,
                     ),
                   ],
